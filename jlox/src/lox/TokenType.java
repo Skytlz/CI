@@ -1,4 +1,4 @@
-package ci;
+package lox;
 
 public enum TokenType {
     LEFT_PAREN, RIGHT_PAREN, LEFT_BRACKET, RIGHT_BRACKET,

@@ -1,4 +1,4 @@
-package ci;
+package lox;
 
 import java.util.ArrayList;
 import java.util.HashMap;
